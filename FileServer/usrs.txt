@@ -1,0 +1,6 @@
+A:a
+a:a
+1:1
+Aa:g
+aga:afaa
+Aga:aga
